@@ -2,10 +2,9 @@ Hi 👋, My name is Brihaspati G Bharani and I am a Senior Software Engineer wit
 
 ### 🧢 More about myself
 - Originally from India 🇮🇳, currently living in Sweden 🇸🇪
-- Experience: 10+ years
+- Experience: ~11 years
 - Current Tech Stack - Elixir, Phoenix, Liveview, Postgres, Nextjs, React, Tailwind
 
-### 🌟 Values - Morality & Ethics, Integrity, Excellence, Innovation, Humility
 
 ### 💻 Back-End Skills:
 - Proficient in Elixir, Phoenix, Ecto, LiveView, Hapi.js, Express.js, and Postgres for scalable and robust backend solutions.
@@ -38,6 +37,7 @@ Hi 👋, My name is Brihaspati G Bharani and I am a Senior Software Engineer wit
 🌱 I’m currently learning:
 - Erlang, Go and AI
 
+### 🌟 Values - Morality & Ethics, Integrity, Excellence, Innovation, Humility
 
 ### How to contact me?
 [LinkedIn](https://www.linkedin.com/in/brihaspati/)
